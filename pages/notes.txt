@@ -1,0 +1,57 @@
+/* Assignments for 9/26/2022 */
+/* 
+Go through the CSS Grid Garden Game
+https://cssgridgarden.com/
+
+- Some of the levels are actually ridiculous, so do the best you can
+*/
+
+/* 
+Go through the MDN Docs on these concepts and apply them on your own:
+- position property (static, relative, sticky, fixed, absolute)
+- float
+*/
+
+/* <!-- Website with a Home page that contains some placeholder description -->
+<!-- Reservation page to "book" a trip -->
+<!-- 
+Home:
+- Navbar
+- Footer
+- Hero content (banner image specifically)
+- Main Header
+- Page content the describes your site
+- Link to a reservation form page
+-->
+<!--
+  Reservations:
+- Navbar
+- Footer
+- Hero content
+- Main Header
+- Page content the describes your site
+- Web form
+  - email
+  - first, last
+  - phone
+  - start date, end date
+  - 2 radio buttons
+  - 3 checkboxes
+  - Something needs to be required (you choose which fields make sense)
+  - submit button
+  - hit that same api "https://httpbin.org/post" and have it echo your fields
+  - 1 select dropdown (hint: option tag -> nested select tags)
+-->
+
+<!-- HAVE FUN WITH IT --> */
+
+/* 
+Replicate the google.com landing page.
+- Make a replica as close as you possibly can using all of the tools we've gone over so far.
+- Use CSS Grid for the page layout.
+- I want actual links (though they can be dead), and icons that are closely related to what you see on the page, etc....
+- Make it responsive
+
+hint on the input:
+ - style divs around the sides of the input to match it so you can use the icons a bit easier.
+*/
